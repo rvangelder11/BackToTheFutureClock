@@ -1,5 +1,5 @@
 # Back To The Future Clock
-Based on <https://www.thingiverse.com/thing:5916251?>
+Based on <https://www.thingiverse.com/thing:5916251>
 
 ![IMG_0110](https://github.com/rvangelder11/BackToTheFutureClock/assets/90907092/e5f63476-73ac-4d90-a594-a23de85f1204)
 
