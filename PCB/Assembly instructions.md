@@ -19,3 +19,10 @@ The PCB is suitable for all three levels. By connecting to the right connector, 
 - The middle PCB is only populated with the yellowgreen displays, resistors and green LEDS  and on the backside with 2x18 pins on the position indicated with "GREEN"
 - The top PCB is only populated with the red displays and on the backside with 2x17 pins on the position indicated with "GREEN". the two left most round holes are not used
 - I have added a switch to be able to swith between 3.3V or 5V to the numeric displays. I found that it needs to be at 3.3V at startup. When all displays are on (and the time is synchronised) you can switch to 5V to have the right brightness. The switch is wired to the bottom PC at location indicated with S1
+
+## With the flatcable connected
+
+![IMG_0111](https://github.com/rvangelder11/BackToTheFutureClock/assets/90907092/a93c814a-46e3-4ac3-8f5e-46f209fb75dc)
+
+## Without the flatcable
+
