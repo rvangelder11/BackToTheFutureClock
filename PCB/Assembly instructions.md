@@ -1,5 +1,9 @@
 # Assembly instructions
 
+- Print the 3D parts. On my Ender 3 it just fitted if I printed it at almost 45 degrees without a skirt.
+- Glue the pieces together (I used Bisontix, but other glue might work as well).
+- The bottom part has a tight fit, to prevent falling out.
+
 ![PCB_PCB_BTTF print_2_2023-05-01](https://github.com/rvangelder11/BackToTheFutureClock/assets/90907092/c57c9c1c-cdd8-42f8-bd20-cabfd743ef32)
 
 ![Schematic_BTTF print_2023-05-01](https://github.com/rvangelder11/BackToTheFutureClock/assets/90907092/17cd4809-5033-4a8a-8375-b1c729c7a8dc)
