@@ -28,4 +28,4 @@ The PCB is suitable for all three levels. By connecting to the right connector, 
 
 ![IMG_0112](https://github.com/rvangelder11/BackToTheFutureClock/assets/90907092/1aef433e-bdad-41cf-a159-77b5c2195c4e)
 
-I have added 100 nF decoupling capacitors at the power supply of each displat to prevent erattic behaviour of the displays
+I have added 100 nF decoupling capacitors at the power supply of each display to prevent erattic behaviour of the displays
