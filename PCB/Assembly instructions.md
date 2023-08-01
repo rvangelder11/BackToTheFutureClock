@@ -27,3 +27,5 @@ The PCB is suitable for all three levels. By connecting to the right connector, 
 ## Without the flatcable
 
 ![IMG_0112](https://github.com/rvangelder11/BackToTheFutureClock/assets/90907092/58932d8b-a3e1-4f3e-8246-840ef52f8dfc)
+
+I have added 100 nF decoupling capacitors at the power supply of each displat to prevent erattic behaviour of the displays
